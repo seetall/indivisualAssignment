@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206517623622",
+    "project_id": "indi-assignment",
+    "storage_bucket": "indi-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206517623622:android:0ec180ac6d8f7561e52347",
+        "android_client_info": {
+          "package_name": "com.example.n_baz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206517623622-gcgj6fc61tradpoe2rkp2phmb9sinrep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAVWmbrM_y_zmTTBT0p7aqeFcjy8EnCyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206517623622-gcgj6fc61tradpoe2rkp2phmb9sinrep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
